@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>testqml.qml</file>
+        <file>itutayf0.png</file>
+        <file>map.qml</file>
+        <file>location-pin.png</file>
+        <file>skinn.jpeg</file>
+        <file>background1.jpg</file>
+        <file>oie_1SZ5qFRcqEV6.jpg</file>
+        <file>başlatj.png</file>
+        <file>ayrılj.png</file>
+        <file>durdurj.png</file>
+        <file>filtrelej.png</file>
+        <file>v.png</file>
+        <file>uuuy.png</file>
+        <file>op.png</file>
+    </qresource>
+</RCC>
